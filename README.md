@@ -10,8 +10,7 @@ I am a dedicated and enthusiastic Data Scientist with a robust skill set in Pyth
 
 ## 🚀 Projects
 
-- [Data Analysis Project](https://github.com/your-username/data-analysis-project): A comprehensive data analysis project using Python and Pandas.
-- [Machine Learning Model](https://github.com/your-username/machine-learning-model): A machine learning model for predicting housing prices using Scikit-Learn.
+- [Machine Learning Model](https://github.com/filipegoncmartins/Prediction-the-Risk-of-Heart-Disease): A machine learning model for predicting the risk of heart disease.
 - [Power BI Dashboard](https://github.com/filipegoncmartins/Retail-Occupancy-Cost): An interactive dashboard built with Power BI to visualize Retail data.
 
 ## 🎓 Education
