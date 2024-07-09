@@ -10,7 +10,8 @@ I am a dedicated and enthusiastic Data Scientist with a robust skill set in Pyth
 
 ## 🚀 Projects
 
-- [Machine Learning Model](https://github.com/filipegoncmartins/Prediction-the-Risk-of-Heart-Disease): A machine learning model for predicting the risk of heart disease.
+- [Cluster Segmentation with Machine Learning](https://github.com/filipegoncmartins/Customer-Segmentation-Analysis-using-Machine-Learning): Customer segmentation using machine learning techniques.
+- [Classification Model with Machine Learning](https://github.com/filipegoncmartins/Prediction-the-Risk-of-Heart-Disease): A machine learning model for predicting the risk of heart disease.
 - [Power BI Dashboard](https://github.com/filipegoncmartins/Retail-Occupancy-Cost): An interactive dashboard built with Power BI to visualize Retail data.
 
 ## 🎓 Education
