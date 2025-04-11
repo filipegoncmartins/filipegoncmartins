@@ -6,7 +6,7 @@ I am a dedicated and enthusiastic Data Scientist with a robust skill set in Pyth
 
 - **Languages:** Python, SQL, DAX, M
 - **Libraries:** Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn
-- **Tools:** Jupyter, VS Code, Git, Power BI, SQL Server, PostgreSQL
+- **Tools:** Power BI, SQL Server, Tableau, PostgreSQL, Jupyter, VS Code, Git
 
 ## 🚀 Projects
 
